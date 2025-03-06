@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Bruno Zanquetta  
 
-<!--
-**BrunoZanquetta/BrunoZanquetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** 
+💻 Focado em **desenvolvimento backend** e **cibersegurança**  
+🚀 Buscando sempre aprender novas tecnologias e aprimorar minhas habilidades  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas  
+- ⚡ **Linguagens:** Java, JavaScript, Python, PHP  
+- 🗄️ **Banco de Dados:** MySQL, PostgreSQL  
+- 🔐 **Cibersegurança:** Práticas de segurança e pentesting  
+- 🏗️ **Frameworks & Ferramentas:** Spring Boot, Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre meus projetos  
+Aqui você encontrará meus projetos acadêmicos, desafios de programação e experimentos com tecnologias backend.  
+🚩 Contato: brunozanquetta@proton.me OU brunozanquettacdc@gmail.com
+
+💡 Sempre aberto a novas colaborações e trocas de conhecimento!  
+
+*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*  

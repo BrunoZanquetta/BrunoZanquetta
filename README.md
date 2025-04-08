@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunozanquetta&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/brunozanquetta/github-readme-stats#gh-dark-mode-only)
 
 ## 🛠️ Tecnologias & Ferramentas  
-- ⚡ **Linguagens:** Java, JavaScript, Python, PHP  
+- ⚡ **Linguagens:** Java, JavaScript, Python, PHP, C  
 - 🗄️ **Banco de Dados:** MySQL, PostgreSQL  
 - 🔐 **Cibersegurança:** Práticas de segurança e pentesting  
 - 🏗️ **Frameworks & Ferramentas:** Spring Boot, Node.js  

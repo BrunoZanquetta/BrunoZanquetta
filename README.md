@@ -1,37 +1,102 @@
-# 👋 Olá! Eu sou o Bruno Zanquetta  
+<div align="center">
 
-🎓 Estudante de **Ciência da Computação** 
-💻 Focado em **desenvolvimento backend** e **cibersegurança**  
-🚀 Buscando sempre aprender novas tecnologias e aprimorar minhas habilidades  
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Bruno%20Zanquetta&fontColor=00FF41&fontSize=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=65&descSize=16&fontAlignY=32)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunozanquetta&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/brunozanquetta/github-readme-stats#gh-dark-mode-only)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=root%40zatabits%3A~%23+whoami;Desenvolvedor+Full-Stack;Entusiasta+de+Ciberseguran%C3%A7a;Explorando+Intelig%C3%AAncia+Artificial;Sempre+aprendendo...+sempre+quebrando+(em+laborat%C3%B3rio+%F0%9F%98%84)" alt="Typing SVG" />
 
-## 🛠️ Tecnologias & Ferramentas  
-- ⚡ **Linguagens:** Java, JavaScript, Python, PHP, C  
-- 🗄️ **Banco de Dados:** MySQL, PostgreSQL  
-- 🔐 **Cibersegurança:** Práticas de segurança e pentesting  
-- 🏗️ **Frameworks & Ferramentas:** Spring Boot, Node.js  
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41)](https://www.youtube.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://www.instagram.com/)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/)
+[![ZATA BITS](https://img.shields.io/badge/ZATA_BITS-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://zatabits.com.br)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41)](mailto:brunozanquetta@proton.me)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+![Profile Views](https://komarev.com/ghpvc/?username=BrunoZanquetta&color=00ff41&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
+
 </div>
 
-## 📌 Sobre meus projetos  
-Aqui você encontrará meus projetos acadêmicos, desafios de programação e experimentos com tecnologias backend.  
-🚩 Contato: brunozanquetta@proton.me OU brunozanquettacdc@gmail.com
+<br>
 
-<div> 
-  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/@Bruno_zanquetta)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/brunozanquetta/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="[https://discord.gg/wagxzStdcR](https://discord.gg/g5yNaeYFwr)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+## `$ cat sobre_mim.md`
+
+```bash
+> Desenvolvedor Full-Stack na Agência Arcanjo, atuando com PHP, Laravel e WordPress
+> Integrante do Comitê de IA da agência, implementando automações e soluções inteligentes
+> Estudante de Ciência da Computação (UNIRP)
+> Criador da ZATA BITS — minha marca pessoal de conteúdo em cibersegurança
+> Explorando o universo de pentest, hardening e IA aplicada à segurança
+```
+
+- 🔭 **Trabalhando atualmente em:** projetos de desenvolvimento web, automações com IA e ferramentas de cibersegurança para clientes nacionais e internacionais
+- 🌱 **Aprendendo:** IA aplicada à segurança ofensiva/defensiva e arquitetura de sistemas
+- 💬 **Me pergunte sobre:** PHP/Laravel, WordPress, automações com N8N, pentest e análise de phishing
+- ⚡ **Fun fact:** já criei uma ferramenta de análise de phishing do zero e hoje ajudo a proteger sistemas reais
+
+<br>
+
+## `$ ls -la stack/`
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=java,js,ts,python,php,c,mysql,postgres,laravel,wordpress,nodejs,react,html,css,git,github,linux,docker&theme=dark)
+
 </div>
 
-💡 Sempre aberto a novas colaborações e trocas de conhecimento!  
+### 🛡️ Cibersegurança
 
-*"O sucesso é a soma de pequenos esforços repetidos dia após dia."* 
+<div align="center">
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)](#)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)](#)
+[![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=00FF41)](#)
+
+</div>
+
+<br>
+
+## `$ ./run_stats.sh`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BrunoZanquetta&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=39FF14&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZanquetta&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=39FF14&bg_color=0D1117" alt="Top Languages" width="30%" />
+
+<img src="https://streak-stats.demolab.com/?user=BrunoZanquetta&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=39FF14&dates=39FF14" alt="GitHub Streak" width="80%" />
+
+</div>
+
+<br>
+
+## `$ cat trophies.log`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=BrunoZanquetta&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+
+</div>
+
+<br>
+
+## `$ tail -f contribuicoes.log`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoZanquetta/BrunoZanquetta/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoZanquetta/BrunoZanquetta/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/BrunoZanquetta/BrunoZanquetta/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+*(essa animação só aparece depois do primeiro workflow rodar — passo 4 do guia)*
+
+</div>
+
+<br>
+
+<div align="center">
+
+> *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
+
+</div>

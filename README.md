@@ -87,7 +87,6 @@
   <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/BrunoZanquetta/BrunoZanquetta/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-*(essa animação só aparece depois do primeiro workflow rodar — passo 4 do guia)*
 
 </div>
 

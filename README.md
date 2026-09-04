@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=root%40zatabits%3A~%23+whoami;Desenvolvedor+Full-Stack;Entusiasta+de+Ciberseguran%C3%A7a;Explorando+Intelig%C3%AAncia+Artificial;Sempre+aprendendo...+sempre+quebrando+(em+laborat%C3%B3rio+%F0%9F%98%84)" alt="Typing SVG" />
 
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41)](https://www.youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://www.instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41)](https://www.youtube.com/@BrunoZanquetta)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://www.instagram.com/dev_brunozanquetta/)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/brunao_zan)
 [![ZATA BITS](https://img.shields.io/badge/ZATA_BITS-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://zatabits.com.br)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41)](mailto:brunozanquetta@proton.me)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41)](mailto:devbrunozanquetta@gmail.com.br)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BrunoZanquetta&color=00ff41&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
 
